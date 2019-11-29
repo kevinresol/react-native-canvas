@@ -15,7 +15,7 @@ export default `<html><head>
         padding: 0;
         overflow: hidden;
       }
-      canvas {
+      * {
         user-select: none;
         -ms-user-select: none;
         -moz-user-select: none;
